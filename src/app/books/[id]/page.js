@@ -9,4 +9,4 @@ export default function Book (){
     <p> {params.id}</p>
     </>
   )
-}
+} 
